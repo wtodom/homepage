@@ -14,7 +14,7 @@ function WelcomeText() {
           <div className="max-w-full">
             <p className="py-6">
               <span className="font-serif text-7xl text-yellow-200">Welcome</span> <span className="text-xl pl-2"> to</span><br />
-              <span className="text-9xl font-bold">Weston Odom</span><span className="text-xl">'s</span><br />
+              <span className="text-9xl font-bold">Weston Odom</span><span className="text-xl">&apos;s</span><br />
               <span className="flex">
                 <span className="text-xs text-red-400 self-center">(very)</span><span className="font-mono text-green-400 text-6xl pl-2 pr-4">over-engineered</span><span className="text-6xl flex center-items">homep<HomeIcon />ge.</span>
               </span>
